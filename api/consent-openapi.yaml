@@ -1,4 +1,4 @@
-openapi: 3.0.94
+openapi: 3.0.105
 servers:
   # Added by API Auto Mocking Plugin
   - description: SwaggerHub API Auto Mocking
